@@ -5,6 +5,8 @@ CKEditor characters counter plugin
 
 This plugin counts number of characters in total and selected text via click on toolbar button.
 
+Here is screenshot: http://img404.imageshack.us/img404/1617/ckeditorcharacterscount.png
+
 You must copy this plugin folder 'characterscounter' to plugins folder (ckeditr/plugins), and enable it in ckeditor/config.js:
 
 CKEDITOR.editorConfig = function( config )
